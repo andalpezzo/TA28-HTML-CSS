@@ -1,0 +1,30 @@
+body {
+    background-color: #fff9ef;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+
+h1 {
+    background-color: #ffdb8f;
+    font-size: 25px;
+    margin: 0px;
+}
+
+h2 {
+    color: #6b9ec0;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h1, h2, h3, p {
+    padding-left: 15px
+}
+
+.pAzul, h3 {
+    color: #6b7c92;
+}
+
+.pSeparado {
+    padding-left: 35px;
+}
